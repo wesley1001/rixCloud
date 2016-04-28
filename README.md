@@ -1,8 +1,10 @@
 # rixCloud-
 Shadowsocks,VPN,主机等大提供商销售模板
 
-
-##在仔细修改后，即可使用：
+###DEMO
+<a href="https://www.rixcloud.com">演示页面</a>
+<hr>
+###在仔细修改后，即可使用：
 <li>favicon.ico
 <li>img中相应图片
 <li>各页面title
